@@ -1,4 +1,4 @@
-# 🎨 ButtonMaker
+# 🎨 Button_Maker
 
 ButtonMaker is a simple and interactive project that allows users to create and customize buttons easily.  
 It is useful for learning basic front-end concepts such as styling, layout, and user interaction.
