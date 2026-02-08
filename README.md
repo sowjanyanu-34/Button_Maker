@@ -39,7 +39,7 @@ ButtonMaker/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavitra672/ButtonMaker.git
+   git clone https://github.com/sowjanya-34/Button_Maker.git
 
    
 2.Navigate to the project folder:
