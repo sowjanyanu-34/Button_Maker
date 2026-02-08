@@ -44,7 +44,7 @@ ButtonMaker/
    
 2.Navigate to the project folder:
 
-       cd ButtonMaker
+       cd Button_Maker
 
 
 3.Open index.html in your browser:
